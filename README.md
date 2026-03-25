@@ -1,5 +1,5 @@
 
-# 📊 Relatório de Projeto: Global LGBM Direct Forecasting  
+# 📊 Relatório de Projeto: LGBM Global 
 ## Sistema de Previsão de Demanda Multi-Entidade (Cliente/Produto)
 
 Este projeto apresenta a implementação de um modelo de *machine learning* **global** utilizando o algoritmo LightGBM para previsão de demanda no setor de varejo.
