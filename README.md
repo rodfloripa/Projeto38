@@ -122,13 +122,5 @@ O modelo **Global LGBM Direct** demonstrou ser:
 
 ```
 
----
 
-Se quiser, posso ainda:
-- deixar no estilo **README de projeto open source (com badges)**  
-- adicionar **GIF de previsão**  
-- incluir **seção de como rodar (reprodutibilidade)**  
-- ou transformar isso em um README nível top GitHub ⭐
 
-Só falar 👍
-```
