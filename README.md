@@ -1,12 +1,8 @@
 
 # 📊 Relatório de Projeto: LGBM Global para 1700 Produtos
-## Sistema de Previsão de Demanda Multi-Entidade (Cliente/Produto)
+<p align="justify"><h2>Sistema de Previsão de Demanda Multi-Entidade (Cliente/Produto)</h2></p>
 
-Este projeto apresenta a implementação de um modelo de *machine learning* **global** utilizando o algoritmo LightGBM para previsão de demanda no setor de varejo.
-
-Diferente das abordagens tradicionais — que treinam um modelo separado para cada item ou cliente — a estratégia global empilha todas as séries temporais em um único dataset de painel. Isso permite que o modelo aprenda padrões compartilhados, como sazonalidade semanal e comportamentos correlacionados de compra.
-
-Como resultado, há ganho significativo de performance, especialmente em cenários de pouco histórico (**cold start**).
+<p align="justify">Este projeto apresenta a implementação de um modelo de <b>machine learning global</b> utilizando o algoritmo LightGBM para previsão de demanda no setor de varejo. Diferente das abordagens tradicionais — que treinam um modelo separado para cada item ou cliente — a estratégia global empilha todas as séries temporais em um único dataset de painel. Isso permite que o modelo aprenda padrões compartilhados, como sazonalidade semanal e comportamentos correlacionados de compra. Como resultado, há ganho significativo de performance, especialmente em cenários de pouco histórico (<b>cold start</b>).</p>
 
 ---
 
